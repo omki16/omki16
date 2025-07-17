@@ -42,10 +42,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omki16&show_icons=true&theme=radical)
-
----
 
 _Thanks for visiting my GitHub profile! Let’s build something impactful together 🚀_
