@@ -24,6 +24,9 @@
 **Backend & Tools:**  
 `SQLite` `Git` `Flask`
 
+**Frameworks**  
+`langchain` `Hugging face`
+
 ---
 
 ## 📌 Featured Projects
