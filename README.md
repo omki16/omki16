@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14354C,50:1F8ACB,100:5C3EE8&height=220&section=header&text=Vidit&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20|%20Research-Oriented%20Student%20|%20IT%20Student&descSize=16&descAlignY=55" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14354C,50:1F8ACB,100:5C3EE8&height=220&section=header&text=Omkrish&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20|%20Project-Driven%20Learner%20|%20CS%20Student&descSize=16&descAlignY=55" width="100%"/>
 <div>  
 
 I'm Omkrish Chauhan, a CS student and tech enthusiast. I am pretty excited to learn new things and work on amazing projects
